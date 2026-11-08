@@ -20,7 +20,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=878541741480…  px=0.879  bucket=0.85-0.90  whale=1.00  mom1h=+0.0000
+ last tick  token=545330438199…  px=0.108  bucket=0.10-0.20  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -36,7 +36,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=323382201900…  px=0.017  bucket=0.00-0.05  whale=1.00  mom1h=+0.0000
+ last tick  token=545330438199…  px=0.108  bucket=0.10-0.20  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -52,7 +52,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=545330438199…  px=0.120  bucket=0.10-0.20  whale=1.00  mom1h=+0.0000
+ last tick  token=545330438199…  px=0.107  bucket=0.10-0.20  whale=2.33  mom1h=-0.0111
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -68,7 +68,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=878541741480…  px=0.885  bucket=0.85-0.90  whale=0.20  mom1h=+0.0000
+ last tick  token=910312791719…  px=0.052  bucket=0.05-0.10  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -84,7 +84,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=878541741480…  px=0.889  bucket=0.85-0.90  whale=2.64  mom1h=+1309.1007
+ last tick  token=545330438199…  px=0.108  bucket=0.10-0.20  whale=9.12  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -100,7 +100,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=878541741480…  px=0.890  bucket=0.85-0.90  whale=2.49  mom1h=+818.1791
+ last tick  token=545330438199…  px=0.108  bucket=0.10-0.20  whale=4.58  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -116,7 +116,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=545330438199…  px=0.111  bucket=0.10-0.20  whale=1.00  mom1h=-11.4326
+ last tick  token=545330438199…  px=0.107  bucket=0.10-0.20  whale=4.61  mom1h=-0.0013
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -132,7 +132,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=545330438199…  px=0.110  bucket=0.10-0.20  whale=185.31  mom1h=-0.8848
+ last tick  token=545330438199…  px=0.107  bucket=0.10-0.20  whale=4.07  mom1h=-0.0012
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -148,7 +148,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=545330438199…  px=0.111  bucket=0.10-0.20  whale=54.96  mom1h=-0.0615
+ last tick  token=107064985435…  px=0.166  bucket=0.10-0.20  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -164,7 +164,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=256593106749…  px=0.982  bucket=0.95-1.00  whale=1.00  mom1h=+0.0000
+ last tick  token=910312791719…  px=0.052  bucket=0.05-0.10  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -180,7 +180,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=381710249030…  px=0.050  bucket=0.05-0.10  whale=1.00  mom1h=+0.0000
+ last tick  token=711698394974…  px=0.046  bucket=0.00-0.05  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -196,7 +196,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=545330438199…  px=0.110  bucket=0.10-0.20  whale=112.19  mom1h=-0.0203
+ last tick  token=552908275995…  px=0.954  bucket=0.95-1.00  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -212,7 +212,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=545330438199…  px=0.111  bucket=0.10-0.20  whale=97.98  mom1h=-0.0181
+ last tick  token=545330438199…  px=0.108  bucket=0.10-0.20  whale=6.70  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -228,7 +228,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=107064985435…  px=0.171  bucket=0.10-0.20  whale=1.00  mom1h=+0.0000
+ last tick  token=760057000270…  px=0.998  bucket=0.95-1.00  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -244,7 +244,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=651760722613…  px=0.830  bucket=0.80-0.85  whale=1.00  mom1h=+0.0000
+ last tick  token=552908275995…  px=0.954  bucket=0.95-1.00  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -260,7 +260,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=651760722613…  px=0.833  bucket=0.80-0.85  whale=1.00  mom1h=+469.5652
+ last tick  token=184940655279…  px=0.949  bucket=0.90-0.95  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -276,7 +276,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=107064985435…  px=0.166  bucket=0.10-0.20  whale=1.00  mom1h=-2.5242
+ last tick  token=184940655279…  px=0.948  bucket=0.90-0.95  whale=1.00  mom1h=-0.0059
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -292,7 +292,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=107064985435…  px=0.166  bucket=0.10-0.20  whale=29.32  mom1h=-0.3626
+ last tick  token=651760722613…  px=0.833  bucket=0.80-0.85  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -308,7 +308,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=545330438199…  px=0.111  bucket=0.10-0.20  whale=88.19  mom1h=-0.0120
+ last tick  token=545330438199…  px=0.107  bucket=0.10-0.20  whale=9.57  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -324,7 +324,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=545330438199…  px=0.110  bucket=0.10-0.20  whale=76.47  mom1h=-0.0101
+ last tick  token=878541741480…  px=0.893  bucket=0.85-0.90  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -340,7 +340,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=545330438199…  px=0.107  bucket=0.10-0.20  whale=7.41  mom1h=-0.0030
+ last tick  token=545330438199…  px=0.107  bucket=0.10-0.20  whale=5.89  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -356,7 +356,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=651760722613…  px=0.834  bucket=0.80-0.85  whale=2.20  mom1h=+0.0048
+ last tick  token=381710249030…  px=0.059  bucket=0.05-0.10  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -372,7 +372,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=107064985435…  px=0.167  bucket=0.10-0.20  whale=0.05  mom1h=+0.0000
+ last tick  token=264686563929…  px=0.040  bucket=0.00-0.05  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -388,7 +388,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=545330438199…  px=0.108  bucket=0.10-0.20  whale=0.04  mom1h=+0.0000
+ last tick  token=910312791719…  px=0.052  bucket=0.05-0.10  whale=6.46  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -404,7 +404,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=910312791719…  px=0.050  bucket=0.05-0.10  whale=1.00  mom1h=+0.0000
+ last tick  token=323382201900…  px=0.018  bucket=0.00-0.05  whale=1.00  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -420,7 +420,7 @@
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=381710249030…  px=0.050  bucket=0.05-0.10  whale=0.12  mom1h=+0.0000
+ last tick  token=107064985435…  px=0.166  bucket=0.10-0.20  whale=1.46  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -431,156 +431,12 @@
 [2J[H========================================================================
  POLYMARKET PAPER TRADER  (simulated fills only — no live orders)
 ========================================================================
- feed=live:20 tokens ticks=27  ticks=27  signals=0  fills=0
+ feed=stopped  ticks=26  signals=0  fills=0
  cash=$10,000.00  equity=$10,000.00  realized=$0.00  unrealized=$0.00
  strategies loaded: 1
    • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
 ------------------------------------------------------------------------
- last tick  token=878541741480…  px=0.892  bucket=0.85-0.90  whale=0.00  mom1h=+0.0000
-------------------------------------------------------------------------
- open positions (0):
-   (none)
- journal=data/paper_trades.json
- min_oos_ev>=10.0pp  duration=18000.0s
- Ctrl+C to stop (paper only)
-========================================================================
-[2J[H========================================================================
- POLYMARKET PAPER TRADER  (simulated fills only — no live orders)
-========================================================================
- feed=live:20 tokens ticks=28  ticks=28  signals=0  fills=0
- cash=$10,000.00  equity=$10,000.00  realized=$0.00  unrealized=$0.00
- strategies loaded: 1
-   • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
-------------------------------------------------------------------------
- last tick  token=902272231155…  px=0.024  bucket=0.00-0.05  whale=1.00  mom1h=+0.0000
-------------------------------------------------------------------------
- open positions (0):
-   (none)
- journal=data/paper_trades.json
- min_oos_ev>=10.0pp  duration=18000.0s
- Ctrl+C to stop (paper only)
-========================================================================
-[2J[H========================================================================
- POLYMARKET PAPER TRADER  (simulated fills only — no live orders)
-========================================================================
- feed=live:20 tokens ticks=29  ticks=29  signals=0  fills=0
- cash=$10,000.00  equity=$10,000.00  realized=$0.00  unrealized=$0.00
- strategies loaded: 1
-   • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
-------------------------------------------------------------------------
- last tick  token=264686563929…  px=0.039  bucket=0.00-0.05  whale=1.00  mom1h=+0.0000
-------------------------------------------------------------------------
- open positions (0):
-   (none)
- journal=data/paper_trades.json
- min_oos_ev>=10.0pp  duration=18000.0s
- Ctrl+C to stop (paper only)
-========================================================================
-[2J[H========================================================================
- POLYMARKET PAPER TRADER  (simulated fills only — no live orders)
-========================================================================
- feed=live:20 tokens ticks=30  ticks=30  signals=0  fills=0
- cash=$10,000.00  equity=$10,000.00  realized=$0.00  unrealized=$0.00
- strategies loaded: 1
-   • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
-------------------------------------------------------------------------
- last tick  token=264686563929…  px=0.039  bucket=0.00-0.05  whale=1.00  mom1h=+0.0000
-------------------------------------------------------------------------
- open positions (0):
-   (none)
- journal=data/paper_trades.json
- min_oos_ev>=10.0pp  duration=18000.0s
- Ctrl+C to stop (paper only)
-========================================================================
-[2J[H========================================================================
- POLYMARKET PAPER TRADER  (simulated fills only — no live orders)
-========================================================================
- feed=live:20 tokens ticks=31  ticks=31  signals=0  fills=0
- cash=$10,000.00  equity=$10,000.00  realized=$0.00  unrealized=$0.00
- strategies loaded: 1
-   • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
-------------------------------------------------------------------------
- last tick  token=545330438199…  px=0.107  bucket=0.10-0.20  whale=22.27  mom1h=+0.0000
-------------------------------------------------------------------------
- open positions (0):
-   (none)
- journal=data/paper_trades.json
- min_oos_ev>=10.0pp  duration=18000.0s
- Ctrl+C to stop (paper only)
-========================================================================
-[2J[H========================================================================
- POLYMARKET PAPER TRADER  (simulated fills only — no live orders)
-========================================================================
- feed=live:20 tokens ticks=32  ticks=32  signals=0  fills=0
- cash=$10,000.00  equity=$10,000.00  realized=$0.00  unrealized=$0.00
- strategies loaded: 1
-   • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
-------------------------------------------------------------------------
- last tick  token=910312791719…  px=0.050  bucket=0.05-0.10  whale=2.00  mom1h=+0.0000
-------------------------------------------------------------------------
- open positions (0):
-   (none)
- journal=data/paper_trades.json
- min_oos_ev>=10.0pp  duration=18000.0s
- Ctrl+C to stop (paper only)
-========================================================================
-[2J[H========================================================================
- POLYMARKET PAPER TRADER  (simulated fills only — no live orders)
-========================================================================
- feed=live:20 tokens ticks=33  ticks=33  signals=0  fills=0
- cash=$10,000.00  equity=$10,000.00  realized=$0.00  unrealized=$0.00
- strategies loaded: 1
-   • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
-------------------------------------------------------------------------
- last tick  token=910312791719…  px=0.051  bucket=0.05-0.10  whale=5.51  mom1h=+0.0070
-------------------------------------------------------------------------
- open positions (0):
-   (none)
- journal=data/paper_trades.json
- min_oos_ev>=10.0pp  duration=18000.0s
- Ctrl+C to stop (paper only)
-========================================================================
-[2J[H========================================================================
- POLYMARKET PAPER TRADER  (simulated fills only — no live orders)
-========================================================================
- feed=live:20 tokens ticks=34  ticks=34  signals=0  fills=0
- cash=$10,000.00  equity=$10,000.00  realized=$0.00  unrealized=$0.00
- strategies loaded: 1
-   • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
-------------------------------------------------------------------------
- last tick  token=264686563929…  px=0.041  bucket=0.00-0.05  whale=3.25  mom1h=+0.0049
-------------------------------------------------------------------------
- open positions (0):
-   (none)
- journal=data/paper_trades.json
- min_oos_ev>=10.0pp  duration=18000.0s
- Ctrl+C to stop (paper only)
-========================================================================
-[2J[H========================================================================
- POLYMARKET PAPER TRADER  (simulated fills only — no live orders)
-========================================================================
- feed=live:20 tokens ticks=35  ticks=35  signals=0  fills=0
- cash=$10,000.00  equity=$10,000.00  realized=$0.00  unrealized=$0.00
- strategies loaded: 1
-   • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
-------------------------------------------------------------------------
- last tick  token=381710249030…  px=0.050  bucket=0.05-0.10  whale=2.53  mom1h=+0.0000
-------------------------------------------------------------------------
- open positions (0):
-   (none)
- journal=data/paper_trades.json
- min_oos_ev>=10.0pp  duration=18000.0s
- Ctrl+C to stop (paper only)
-========================================================================
-[2J[H========================================================================
- POLYMARKET PAPER TRADER  (simulated fills only — no live orders)
-========================================================================
- feed=stopped  ticks=35  signals=0  fills=0
- cash=$10,000.00  equity=$10,000.00  realized=$0.00  unrealized=$0.00
- strategies loaded: 1
-   • bucket=0.30-0.40 AND whale>3 AND mom1h=pos AND side=BUY  OOS EV=15.5pp  WR=50%
-------------------------------------------------------------------------
- last tick  token=381710249030…  px=0.050  bucket=0.05-0.10  whale=2.53  mom1h=+0.0000
+ last tick  token=107064985435…  px=0.166  bucket=0.10-0.20  whale=1.46  mom1h=+0.0000
 ------------------------------------------------------------------------
  open positions (0):
    (none)
@@ -591,13 +447,13 @@
 {
   "ok": true,
   "mode": "live",
-  "updated_at": "2026-11-07T17:43:40.164199+00:00",
+  "updated_at": "2026-11-08T02:50:59.394309+00:00",
   "bankroll_initial": 10000.0,
   "cash": 10000.0,
   "equity": 10000.0,
   "realized_pnl": 0.0,
   "unrealized_pnl": 0,
-  "ticks_seen": 35,
+  "ticks_seen": 26,
   "signals_fired": 0,
   "fills": 0,
   "n_strategies": 1,
